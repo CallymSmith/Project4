@@ -1,0 +1,40 @@
+ol,
+ul
+{
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+}
+
+#gallery img {
+    width: 200px;
+    height: 220px;
+    margin: 25px;
+}
+
+input {
+    height: 30px;
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+.list
+{
+  text-align: center;
+}
+
+.list li
+{
+  display: inline-block;
+
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.list img
+{
+  width: 160px;
+  height: 160px;
+}
